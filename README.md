@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, я Никита 👋  
 
-<!--
-**metaspoit/metaspoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мне нравится создавать быстрые, удобные и эстетичные интерфейсы.  
+Работаю с React, TypeScript и современными UI-библиотеками.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Технологии
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,git,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight)  
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight)
+
+---
+
+### 🌍 Социальные сети
+[Telegram](https://t.me/ТВОЙ_НИК_ИЛИ_ЮЗЕРНЕЙМ) • [Portfolio](https://yourdomain.com)

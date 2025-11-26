@@ -13,9 +13,9 @@
 ---
 
 ### 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight)  
+![stats](https://github-readme-stats.vercel.app/api?username=metaspoit&show_icons=true&theme=tokyonight)  
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metaspoit&layout=compact&theme=tokyonight)
 
 ---
 

@@ -6,7 +6,6 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Никита!</h1>
 
 <div align="center">
   <a href="https://t.me/quasarhm" target="_blank">
